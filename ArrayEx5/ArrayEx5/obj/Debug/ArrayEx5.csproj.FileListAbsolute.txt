@@ -1,0 +1,7 @@
+D:\PROGRAMMING FUNDAMENTALS\ArrayEx5\ArrayEx5\bin\Debug\ArrayEx5.exe.config
+D:\PROGRAMMING FUNDAMENTALS\ArrayEx5\ArrayEx5\bin\Debug\ArrayEx5.exe
+D:\PROGRAMMING FUNDAMENTALS\ArrayEx5\ArrayEx5\bin\Debug\ArrayEx5.pdb
+D:\PROGRAMMING FUNDAMENTALS\ArrayEx5\ArrayEx5\obj\Debug\ArrayEx5.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING FUNDAMENTALS\ArrayEx5\ArrayEx5\obj\Debug\ArrayEx5.exe
+D:\PROGRAMMING FUNDAMENTALS\ArrayEx5\ArrayEx5\obj\Debug\ArrayEx5.pdb
+D:\PROGRAMMING FUNDAMENTALS\ArrayEx5\ArrayEx5\obj\Debug\ArrayEx5.csprojAssemblyReference.cache
